@@ -1,0 +1,2 @@
+Prefix plugins/BoxWhisker/example/
+Plugin BoxWhisker inputfile parameters.txt outputfile output
