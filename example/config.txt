@@ -1,2 +1,2 @@
 Prefix plugins/BoxWhisker/example/
-Plugin BoxWhisker inputfile parameters.txt outputfile output
+Plugin BoxWhisker inputfile parameters.txt outputfile output.png
